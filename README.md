@@ -39,9 +39,6 @@ Many company have stopped official service due to excessive prices. Robin projec
 Robin project has updated alanis, blazarium, lunique, ximant, zenad blockchain bootstrap. Recently, branching rate of POS system blockchain has been increasing. We would like to recommend maintenance on stable network masternode and staking server. The worse the network, the higher the branching rate.  
   
   
-blazarium official github is closed : https://github.com/blazarium/blazarium [`new link`](https://github.com/robinadaptor/blazarium)    
-utum official github is closed : https://github.com/UtumDev/Utum  
 
-It can also be scrambled using the source or binary file of the wrong URL address. 
   
 [`home`](https://github.com/robinadaptor)  [`announcement`](https://github.com/robinadaptor/announcement)  [`contact`](https://github.com/robinadaptor/POS-helper)
