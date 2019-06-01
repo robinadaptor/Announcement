@@ -5,7 +5,13 @@ Robin project has managed and developed cryptocurrency coins. For many community
 **BTC**: 3HiMhcv7VZWsCesZ34fZmUxTdgeqz  
 **LTC**: LR7np4YNgC7M86cyQC7P93JizgSpRXvCXu  
 
-### 30th May, 2019
+### 1st June, 2019  
+
+Genero wallet has been updated to v1.1.0.0. You have to upgrade to receive normal rewards. In previous versions of Genero wallet, the reward could be orphan coin.  In the end, the service will be discontinued.  
+
+download genero wallet: https://github.com/robinadaptor/genero/releases  
+
+### 30th May, 2019  
 
 Robin Project classified community coin management into three directions.  The stake of crypto coin depends on success of system upgrading, forking by consensus algorithm.
 
