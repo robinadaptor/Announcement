@@ -5,7 +5,24 @@ Robin project has managed and developed cryptocurrency coins. For many community
 **BTC**: 3HiMhcv7VZWsCesZ34fZmUxTdgeqz  
 **LTC**: LR7np4YNgC7M86cyQC7P93JizgSpRXvCXu  
 
-### 1st June, 2019  
+### 6th Nov, 2019
+
+In the future, cryptocurrency managed and published by Robinadaptor will apply various POS algorithms.   
+These algorithms seem to contribute to popularization. And we will delete all dark process functions code with continuous efforts.   
+Chronon seems to be a prime example. Therefore, digital asset prepared for the dark process should be restored.   
+
+Robinadaptor opens Chamber Ex. for community development.   
+There are many cases that you have not received a refund due to the recent closure of the exchange.   
+Robinadaptor will continue to work on atomic swaps.  
+Chamber is its first step. Atomic swap will make perfect integrity transactions.   
+
+Renish, Chronon, and Genero upgrades were partly in progress.   
+
+Renish Wallet : https://github.com/robinadaptor/renish/releases   
+Chronon Wallet: https://github.com/robinadaptor/chronon/releases   
+Genero Wallet: https://github.com/robinadaptor/genero/releases   
+
+### 1st June, 2019   
 
 Genero, Chronon wallet has been updated to v1.1.0.0. You have to upgrade to receive normal rewards. In previous versions of Genero, Chronon wallet, the reward could be orphan coin.  In the end, the service will be discontinued.   
 
