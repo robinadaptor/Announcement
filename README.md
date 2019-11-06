@@ -7,14 +7,9 @@ Robin project has managed and developed cryptocurrency coins. For many community
 
 ### 6th Nov, 2019
 
-In the future, cryptocurrency managed and published by Robinadaptor will apply various POS algorithms.   
-These algorithms seem to contribute to popularization. And we will delete all dark process functions code with continuous efforts.   
-Chronon seems to be a prime example. Therefore, digital asset prepared for the dark process should be restored.   
+In the future, cryptocurrency managed and published by Robinadaptor will apply various POS algorithms. These algorithms seem to contribute to popularization. And we will delete all dark process functions code with continuous efforts. Chronon seems to be a prime example. Therefore, digital asset prepared for the dark process should be restored.   
 
-Robinadaptor opens Chamber Ex. for community development.   
-There are many cases that you have not received a refund due to the recent closure of the exchange.   
-Robinadaptor will continue to work on atomic swaps.  
-Chamber is its first step. Atomic swap will make perfect integrity transactions.   
+Robinadaptor opens Chamber Ex. for community development. There are many cases that you have not received a refund due to the recent closure of the exchange. Robinadaptor will continue to work on atomic swaps. Chamber is its first step. Atomic swap will make perfect integrity transactions.   
 
 Renish, Chronon, and Genero upgrades were partly in progress.   
 
