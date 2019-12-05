@@ -5,7 +5,7 @@ Robin project has managed and developed cryptocurrency coins. For many community
 **BTC**: 3HiMhcv7VZWsCesZ34fZmUxTdgeqz  
 **LTC**: LR7np4YNgC7M86cyQC7P93JizgSpRXvCXu  
 
-### 6th Nov, 2019   
+### 5th Dec, 2019   
 
 As a matter of social policy, we should trade off the undark(white) cryptocurrency model on Chamber Ex. so unfortunately we decided to unlist dash, zcash, komodo, horizen, pivx. we will reset all current orders on Chamber. Sorry for that. We will make the undark (white) opensource open later. Renish, Genero, Alanis, Ximant and Wilo will be redeveloped in the white version soon. Thank you.   
 
